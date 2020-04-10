@@ -1,6 +1,7 @@
-: Suggest a new idea for the project.
+---
+name: Feature Request 💡
+about: Suggest a new idea for the project.
 labels: enhancement
-
 ---
 
 ## Summary
